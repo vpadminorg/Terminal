@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Terminal</title>
+    <link>/Terminal/tags/</link>
+    <description>Recent content in Tags on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/Terminal/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>/Terminal/tags/index/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/Terminal/tags/index/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>/Terminal/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/Terminal/tags/privacy/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>/Terminal/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/Terminal/tags/shortcodes/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
